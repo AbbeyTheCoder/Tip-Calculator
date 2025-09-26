@@ -145,7 +145,7 @@ section#output {
     margin: 0;
   }
   div#root {
-    max-width: 80%;
+    max-width: 70%;
   }
   main#tip-calculator {
     flex-direction: row;
